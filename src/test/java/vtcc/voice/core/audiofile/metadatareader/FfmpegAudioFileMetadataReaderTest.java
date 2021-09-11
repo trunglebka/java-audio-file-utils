@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * Date: 10/09/2021 <br>
  * Time: 15:46 <br>
  */
-class FfmpegAudioFileMetadataReaderTest {
+public class FfmpegAudioFileMetadataReaderTest {
   private AudioFileMetadataReader audioFileMetadataReader;
 
   public FfmpegAudioFileMetadataReaderTest() throws IOException {

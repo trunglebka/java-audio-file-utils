@@ -19,7 +19,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * Date: 10/09/2021 <br>
  * Time: 10:09 <br>
  */
-class FfmpegAudioFileConverterTest {
+public class FfmpegAudioFileConverterTest {
   private Path tmpTestDir;
   private Path ffmpegPath = Paths.get("/usr/bin/ffmpeg");
   private AudioFileMetadataReader audioFileMetadataReader;

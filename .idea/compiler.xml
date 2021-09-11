@@ -10,6 +10,7 @@
         <module name="linhtinh" />
         <module name="audio-file-converter" />
         <module name="audio-file-utils" />
+        <module name="java-audio-file-utils" />
       </profile>
     </annotationProcessing>
   </component>
